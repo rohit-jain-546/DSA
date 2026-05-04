@@ -36,3 +36,5 @@ This repository contains algorithm and data structure solutions implemented in J
 
 - File names are mostly based on problem numbers and titles.
 - This repository is intended as a personal practice collection rather than a polished library.
+
+-Rohit jain
