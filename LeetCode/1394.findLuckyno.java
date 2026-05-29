@@ -1,4 +1,5 @@
 class Solution {
+    //1394
     public int findLucky(int[] arr) {
         HashMap<Integer,Integer> map = new HashMap<>();
 
